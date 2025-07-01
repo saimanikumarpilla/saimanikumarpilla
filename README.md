@@ -8,7 +8,9 @@ I'm a 4th-year student passionate about front-end web development and eager to l
 * JavaScript
 * React 
 ## Projects 
-[SAMS]: [A system that mangages Acedamic details of collage] ([Link to Code](https://github.com/bhargavi2520/SAMS) | [Live Demo](https://bhargavi2520.github.io/SAMS/login)) 
+##SAMS: 
+A system that manages the academic details of the college.
+([Link to Code](https://github.com/bhargavi2520/SAMS) | [Live Demo](https://bhargavi2520.github.io/SAMS/login)) 
 [Project 2 Name]: [Brief Description] ([Link to Code](Project 2 Repository URL) | [Live Demo](Project 2 Live Demo URL)) 
 [Project 3 Name]: [Brief Description] ([Link to Code](Project 3 Repository URL) | [Live Demo](Project 3 Live Demo URL)) 
 ## Connect with Me 
